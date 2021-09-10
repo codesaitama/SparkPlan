@@ -13,4 +13,17 @@ Introduction
 <h5>The <strong>project manager</strong> uses it to plan the project schedule and resource needs, and to track progress against the schedule. </h5>
 <h5><strong>Project team members</strong> use it to understand what they need to do, when they need to do it, and what other activities they are dependent upon. </h5>
 
+<br/>
+Scope
+------------
+<h5><li>View all member/club information.</li></h5>
+
+<h5><li>Dispense loans from the dashboard.</li></h5>
+
+<h5><li>View all delinquent and default users.</li></h5>
+
+<h5><li>Manage the overall portfolio of loans and savings.</li></h5>
+
+
+
 
