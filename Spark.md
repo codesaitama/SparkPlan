@@ -42,14 +42,14 @@ Development Environment Setup
 <li>AWS</li></h5>
 <br/>
 
-<p>Libraies/Frameworks [Language] to choose from for frontend development putting performance and code refactorability in mind.</p>
+<p>Libraries/Frameworks [Language] to choose from for frontend development putting performance and code refactorability in mind.</p>
 <h5>
 <li>ReactJS/NextJS for web app (NextJS allows server-side rendering that helps with SEO) [JS]</li>
 <li>React Native for IOS/Android [JS]</li>
 <li>Flutter for IOS/Android [Dart]</li></h5>
 <br/>
 
-<p>Libraies/Frameworks [Language] to choose from for backend development</p>
+<p>Libraries/Frameworks [Language] to choose from for backend development</p>
 <h5>
 <li>NodeJS & Express [JS]</li>
 <li>ASP.NET Core [C#]</li>
@@ -65,12 +65,38 @@ Development Environment Setup
 <li>MongoDB</li></h5>
 <br/>
 
-<p>Security Technologies</p>
+<p>Authentication Technologies</p>
 <h5>
-
 <li>OAuth/OpenID Connect</li>
-
 </h5>
+<br/>
+
+<p>Extra Libraries</p>
+<h5>
+<li>Socket.IO (Socket.IO enables real-time, bidirectional and event-based communication.)</li>
+<li>SignalR (SignalR in ASP.NET lets your server-side code push content to connected clients, in real-time, with client SDKs for JavaScript, .NET (C#, F#, and VB))</li>
+</h5>
+<br/>
+
+# Security
+<h5>
+Software systems can be attacked to steal information, monitor content, introduce vulnerabilities and damage the behavior of software. Malware can cause DoS (denial of service) or crash the system itself.
+</h5>
+
+<p>List of attacks to handle in the software.</p>
+<h5>
+<li>Buffer Overflow</li>
+<li>Stack Overflow</li>
+<li>Command Injection</li>
+<li>SQL injections</li>
+</h5>
+
+<h5>The only way to avoid such attacks is to practice good programming techniques. System-level security can be provided using better firewalls. Using intrusion detection and prevention can also aid in stopping attackers from easy access to the system.</h5>
+<br />
+
+[![Alt-Text](/Flowchart.png)]
+
+
 
 
 
